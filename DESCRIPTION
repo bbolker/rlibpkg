@@ -5,3 +5,5 @@ Author: Ben Bolker <bolker@mcmaster.ca>
 Maintainer: Ben Bolker <bolker@mcmaster.ca>
 Description: Fits mixed-effects models using a variety of distributions
 License: GPL
+Suggests:
+    fortunes
